@@ -1,3 +1,5 @@
+[![By Hoseinfi](https://github.com/Hoseinfi/Hoseinfi/blob/main/by-hoseinfi.png)](https://github.com/Hoseinfi)
+
 # black brain ai
 it is a ai generator pro and simple :))))
 ___
